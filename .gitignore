@@ -1,0 +1,5 @@
+# ignore directories from building
+pkg/**
+src/**
+# ignore .tar files (builds)
+*.tar*
